@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luthfiaditya01&label=Profile%20views&color=0e75b6&style=flat" alt="luthfiaditya01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luthfiaditya01" alt="luthfiaditya01" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, Flutter, React.js, Next.js**
 
 - 👨‍💻 All of my projects are available at [about.adheetya.my.id](about.adheetya.my.id)
 
-- 📫 How to reach me **luthfi2004aditya@gmail.com**
+- 📫 How to reach me [contact@adheetya.my.id](mailto:contact@adheetya.my.id)
 
-- 📄 Know about my experiences (https://about.adheetya.my.id/Curriculum-Vitae_Luthfi-Aditya.pdf)[https://about.adheetya.my.id/Curriculum-Vitae_Luthfi-Aditya.pdf]
+- 📄 Know about my experiences [https://about.adheetya.my.id/Curriculum-Vitae_Luthfi-Aditya.pdf](https://about.adheetya.my.id/Curriculum-Vitae_Luthfi-Aditya.pdf)
 
 - ⚡ Fun fact **I love working with people who enjoy sharing ideas, building from scratch, and aren’t afraid to break things to learn something new. | If I’m not pushing code, I’m pushing weights. Same struggle, different sweat 💪 |**
 
