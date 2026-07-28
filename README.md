@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React Native, Flutter, React.js, Next.js**
 
-- 👨‍💻 All of my projects are available at [portho-adheet.vercel.app](portho-adheet.vercel.app)
+- 👨‍💻 All of my projects are available at [about.adheetya.my.id](about.adheetya.my.id)
 
 - 📫 How to reach me **luthfi2004aditya@gmail.com**
 
-- 📄 Know about my experiences [https://porto-adheet.vercel.app/Curriculum%20Vitae_Luthfi%20Aditya.pdf](https://porto-adheet.vercel.app/Curriculum%20Vitae_Luthfi%20Aditya.pdf)
+- 📄 Know about my experiences (https://about.adheetya.my.id/Curriculum-Vitae_Luthfi-Aditya.pdf)[https://about.adheetya.my.id/Curriculum-Vitae_Luthfi-Aditya.pdf]
 
 - ⚡ Fun fact **I love working with people who enjoy sharing ideas, building from scratch, and aren’t afraid to break things to learn something new. | If I’m not pushing code, I’m pushing weights. Same struggle, different sweat 💪 |**
 
