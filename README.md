@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native, Flutter, React.js, Next.js**
 
-- 👨‍💻 All of my projects are available at [about.adheetya.my.id](about.adheetya.my.id)
+- 👨‍💻 All of my projects are available at [https://about.adheetya.my.id](https://about.adheetya.my.id)
 
 - 📫 How to reach me [contact@adheetya.my.id](mailto:contact@adheetya.my.id)
 
